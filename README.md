@@ -19,3 +19,12 @@ If im not dumb, then you can hit releases and download the plugin and exe file. 
 Drag and drop the roblox plugin into any game. (Studio of course)
 
 For the localhoster, it is directly featured as a visual studio project. (C#)
+
+# Required to run:
+Net 8.0 (Until i make it run on 4.8)
+
+Roblox Studio
+
+Access to e621 directly (https://e621.net)
+
+Firewall access to port 5000 (For programs to use, such as mine)
